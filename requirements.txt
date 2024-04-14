@@ -1,0 +1,7 @@
+streamlit==1.33.0
+Werkzeug==3.0.2
+PyPDF2==2.12.1
+easyocr
+Pillow
+configparser
+numpy
